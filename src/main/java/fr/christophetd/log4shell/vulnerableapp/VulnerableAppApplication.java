@@ -10,4 +10,4 @@ public class VulnerableAppApplication {
 		SpringApplication.run(VulnerableAppApplication.class, args);
 	}
 
-}
+} 
