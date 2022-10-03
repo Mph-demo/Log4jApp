@@ -75,5 +75,5 @@ https://mbechler.github.io/2021/12/10/PSA_Log4Shell_JNDI_Injection/
 
 ## Contributors
 
-[@christophetd](https://twitter.com/christophetd)
-[@rayhan0x01](https://twitter.com/rayhan0x01)
+[@christophetd](https://twitter.com/christophetd) 
+[@rayhan0x01](https://twitter.com/rayhan0x01) 
